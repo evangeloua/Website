@@ -1,0 +1,17 @@
+.headerContainer {
+    width: 90%;
+    height: 100px;
+    margin: 30px auto 0 auto;
+}
+
+.navLinkRight {
+    float: right;
+    margin-left: 25px;
+    color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.navLinkRight:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,13 @@
+.bioParagraph {
+    max-width: 60%;
+    margin: 0 auto;
+}
+
+p.bio {
+    font-size: large;
+}
+
+.bioFormat {
+    color: #494c4e;
+    text-align: center;
+}
