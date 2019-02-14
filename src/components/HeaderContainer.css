@@ -8,7 +8,7 @@
     float: right;
     margin-left: 25px;
     padding: 10px;
-    color: #494c4e  ;
+    color: #24292e  ;
     text-decoration: none;
     text-transform: uppercase;
     transition: 0.3s;
@@ -30,4 +30,14 @@
 
 .navLinkRight:hover {
     text-decoration: underline;
+}
+
+.active {
+    background-color: #24292e !important;
+    color: white !important;
+    transition: 0.3s;
+}
+
+.active:hover {
+    text-decoration: none !important;
 }
