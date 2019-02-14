@@ -1,4 +1,16 @@
 .App {
     height: 100%;
+    min-height: 100%;
+    overflow: auto;
     border: 8px solid #494c4e;
+}
+
+.active {
+    background-color: #494c4e !important;
+    color: white !important;
+    transition: 0.3s;
+}
+
+.active:hover {
+    text-decoration: none !important;
 }

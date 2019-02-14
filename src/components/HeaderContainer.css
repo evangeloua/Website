@@ -7,9 +7,25 @@
 .navLinkRight {
     float: right;
     margin-left: 25px;
+    padding: 10px;
+    color: #494c4e  ;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.3s;
+}
+
+.navLinkLeft {
+    float: left;
+    margin-left: 25px;
+    padding: 10px;
     color: #000;
     text-decoration: none;
     text-transform: uppercase;
+    transition: 0.3s;
+}
+
+.navLinkLeft:hover {
+    text-decoration: underline;
 }
 
 .navLinkRight:hover {

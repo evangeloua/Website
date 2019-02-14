@@ -1,20 +1,26 @@
 import React, {Component} from 'react';
+import {
+    Route,
+    NavLink,
+    HashRouter
+} from "react-router-dom";
+import BioParagraph from './Home/BioParagraph'
 import './HeaderContainer.css';
 
 class HeaderContainer extends Component {
     render() {
         return (
-            <div className="headerContainer">
-                <header>
+            <HashRouter>
+                <div className="headerContainer">
                     <nav>
-                        <a>Icon goes here</a>
-                        <a className="navLinkRight" href="#">Social</a>
-                        <a className="navLinkRight" href="#connect">Connect</a>
-                        <a className="navLinkRight" href="#github">GitHub</a>
-                        <a className="navLinkRight" href="#home">Home</a>
+                        <NavLink>Icon goes here</NavLink>
+                        <NavLink className="navLinkRight" to="#">Social</NavLink>
+                        <NavLink className="navLinkRight" to="#connect">Connect</NavLink>
+                        <NavLink className="navLinkRight" to="#github">GitHub</NavLink>
+                        <NavLink className="navLinkRight" to="#home">Home</NavLink>
                     </nav>
-                </header>
-            </div>
+                </div>
+            </HashRouter>
         )
     }
 }
