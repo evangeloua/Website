@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './BioParagraph.css'
+import '../../stylesheets/Home.css'
 
 class BioParagraph extends Component {
 

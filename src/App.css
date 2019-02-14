@@ -2,3 +2,66 @@
     height: 100%;
     border: 8px solid #24292e;
 }
+
+.header {
+    height: 150px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+
+.headerIcon {
+    display: flex;
+    width: 50%;
+    justify-content: flex-start;
+}
+
+.headerNav {
+    display: flex;
+    width: 50%;
+    justify-content: flex-end;
+}
+
+.icon {
+    margin-left: 25px;
+    padding: 10px;
+    color: #24292e;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.3s;
+}
+
+.navLink {
+    padding: 5px 15px;
+    border-right: 1px solid #24292e;
+    color: #24292e  ;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.3s;
+}
+
+.icon:hover {
+    text-decoration: underline;
+}
+
+.navLink:hover {
+    text-decoration: underline;
+}
+
+.active {
+    background-color: #24292e !important;
+    color: white !important;
+    transition: 0.3s;
+}
+
+.active:hover {
+    text-decoration: none !important;
+}
+
+.github {
+    padding: 5px 15px;
+    color: #24292e  ;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.3s;
+}
