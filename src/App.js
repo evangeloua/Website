@@ -9,7 +9,7 @@ class App extends Component {
     render() {
         return (
             <HashRouter>
-                <div className="App">
+                <div>
                     <div className="header">
                         <div className="headerIcon">
                             <NavLink className="icon" exact to="/">Icon goes here</NavLink>

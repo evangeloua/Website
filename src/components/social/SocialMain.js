@@ -4,7 +4,7 @@ import '../../stylesheets/Social.css'
 class SocialMain extends Component {
     render() {
         return (
-            <div>
+            <div className="AppBody">
                 <h1>Social</h1>
             </div>
         );

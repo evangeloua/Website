@@ -1,6 +1,9 @@
-.App {
-    height: 100%;
-    border: 8px solid #24292e;
+.AppBody {
+    height: calc(100vh - 116px);
+}
+
+.test {
+    background-color: blue;
 }
 
 .header {
