@@ -1,1 +1,1 @@
-###Personal website built in React
+### Personal website built with React.js
