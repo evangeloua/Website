@@ -2,10 +2,6 @@
     height: calc(100vh - 116px);
 }
 
-.test {
-    background-color: blue;
-}
-
 .header {
     height: 100px;
     display: flex;
