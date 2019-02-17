@@ -5,6 +5,7 @@ class BusinessCard extends Component {
     render() {
         return (
             <div className="businessCard">
+                <p>Hello!</p>
             </div>
         );
     }

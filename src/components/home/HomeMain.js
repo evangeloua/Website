@@ -8,7 +8,7 @@ import 'simplebar/dist/simplebar.min.css';
 class HomeMain extends Component {
     render() {
         return (
-            <div className="AppBody">
+            <div className="AppBodyWithScroll">
                 <SimpleBar>
                     <h1>Home</h1>
                     <BioParagraph/>
