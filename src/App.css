@@ -1,14 +1,20 @@
 .AppBody {
-    height: calc(100vh - 116px);
+    height: calc(100vh - 136px);
+}
+
+.marg {
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .header {
     height: 100px;
+    margin: 20px 20px 0 20px;
     display: flex;
     align-items: center;
     background-color: white;
+    box-shadow: 0 8px 20px 0 #696666;
 }
-
 .headerIcon {
     display: flex;
     width: 50%;
