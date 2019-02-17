@@ -21,7 +21,7 @@ class App extends Component {
                             <a className="github" target="_blank" href="https://github.com/evangeloua">GitHub</a>
                         </div>
                     </div>
-                    <div>
+                    <div className="marg">
                         <Route exact path="/" component={HomeMain}/>
                         <Route path="/home" component={HomeMain}/>
                         <Route path="/contact" component={ContactMain}/>
