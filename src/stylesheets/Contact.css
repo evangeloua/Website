@@ -4,16 +4,21 @@
     width: 445px;
     box-shadow: 0 0 20px 0;
     justify-content: space-between;
+    align-items: flex-start;
     flex-direction: column;
-    /*background-image: url("../images/seamless-paper-texture-business-card-background.jpg");*/
+    /*background: url("../images/seamless-paper-texture-business-card-background.jpg");*/
 }
 
 .cardName {
-    font-family: "Arial Black";
-    font-size: 35px;
-    color: cadetblue;
+    font-family: "Droid Sans Mono";
+    font-size: 30px;
+    color: #222223;
 }
 
-.contactInfo {
+.spacing {
+    padding: 20px;
+}
 
+p {
+    margin: 0;
 }

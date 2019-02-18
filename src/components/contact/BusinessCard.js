@@ -5,7 +5,14 @@ class BusinessCard extends Component {
     render() {
         return (
             <div className="businessCard">
-                <p>Hello!</p>
+                <div className="spacing">
+                    <p className="cardName">Alexander Evangelou</p>
+                    <p>Software Engineer</p>
+                </div>
+                <div className="spacing">
+                    <p>aevangelou10@gmail.com</p>
+                    <p>(201)-401-8914</p>
+                </div>
             </div>
         );
     }
