@@ -19,61 +19,6 @@ class BioParagraph extends Component {
                 <p className="bioFormat">
                     Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
                     experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-                    Hello! My name is Alex and I'm a full stack developer with { BioParagraph.dateChecker() } years
-                    experience. I currently live in northern New Jersey. Lets see what we can do together.
-
-
                 </p>
             </div>
         );
