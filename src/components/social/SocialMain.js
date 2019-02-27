@@ -9,8 +9,8 @@ class SocialMain extends Component {
             <div className="bodForApp">
                 <a href="https://twitter.com/AlexEvangelou4"><Icon name="twitter" size={64}/></a>
                 <a href="https://www.facebook.com/alex.evangelou.3"><Icon name="facebook" size={64}/></a>
-                <a href="https://twitter.com/AlexEvangelou4"><Icon name="github" size={64}/></a>
-                <a href="https://twitter.com/AlexEvangelou4"><Icon name="linkedin" size={64}/></a>
+                <a href="https://github.com/evangeloua"><Icon name="github" size={64}/></a>
+                <a href="https://www.linkedin.com/in/alexander-evangelou-58b327180/"><Icon name="linkedin" size={64}/></a>
             </div>
         );
     }
