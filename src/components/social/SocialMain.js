@@ -1,16 +1,16 @@
 import React, {Component} from 'react';
-import SimpleBar from 'simplebar-react';
-import 'simplebar/dist/simplebar.min.css';
+import Icon from 'react-simple-icons';
 import '../../stylesheets/Social.css'
 import '../../App.css';
 
 class SocialMain extends Component {
     render() {
         return (
-            <div className="AppBody">
-                <SimpleBar>
-                    <h1>Social</h1>
-                </SimpleBar>
+            <div className="bodForApp">
+                <a href="https://twitter.com/AlexEvangelou4"><Icon name="twitter" size={64}/></a>
+                <a href="https://www.facebook.com/alex.evangelou.3"><Icon name="facebook" size={64}/></a>
+                <a href="https://twitter.com/AlexEvangelou4"><Icon name="github" size={64}/></a>
+                <a href="https://twitter.com/AlexEvangelou4"><Icon name="linkedin" size={64}/></a>
             </div>
         );
     }
